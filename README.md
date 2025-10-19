@@ -28,6 +28,7 @@ A **responsive and modern website** built using **HTML + CSS**, showcasing a lau
 ---
 
 ## 🧩 Folder Structure
+```
 laundarymart/
 ├── index.html
 ├── styles.css
@@ -35,6 +36,7 @@ laundarymart/
 │ ├── laundary_img.webp
 │ ├── favicon.ico
 └── README.md
+```
 
 
 ---
@@ -52,22 +54,31 @@ laundarymart/
 3. Open index.html in your browser
 That’s it! No setup required 🎉
 
-🚀 Deployment
-🔹This project is live on Netlify.
-🔹If you want to deploy your own version:
-1. Create a Netlify account
-2. Link your GitHub repository
-3. Hit Deploy Site — done in under 1 minute ⚡
+## 🚀 Deployment  
 
-💡 What I Learned
-🔹Mastered Flexbox layouts
-🔹Improved color contrast & accessibility
-🔹Built a mobile-first responsive design
-🔹Understood Netlify deployment workflow
+This project is live on **Netlify**.  
 
-🧑‍💻 Author
-👋 Vicky Sharma
-Frontend Developer | Learning DSA & Web Dev 🚀
+If you want to deploy your own version:  
 
-🐦 Twitter: https://x.com/Sharmavicky_93
-🌐 Live Site: https://taupe-hummingbird-c6b123.netlify.app
+1. Create a [Netlify](https://www.netlify.com/) account  
+2. Link your GitHub repository  
+3. Hit **Deploy Site** — done in under 1 minute ⚡  
+
+---
+
+## 💡 What I Learned  
+
+- Mastered **Flexbox layouts**  
+- Improved **color contrast & accessibility**  
+- Built a **mobile-first responsive design**  
+- Understood **Netlify deployment workflow**  
+
+---
+
+## 🧑‍💻 Author  
+
+👋 **Vicky Sharma**  
+Frontend Developer | Learning DSA & Web Dev 🚀  
+
+🐦 **Twitter:** [https://x.com/Sharmavicky_93](https://x.com/Sharmavicky_93)  
+🌐 **Live Site:** [https://taupe-hummingbird-c6b123.netlify.app](https://taupe-hummingbird-c6b123.netlify.app)  
