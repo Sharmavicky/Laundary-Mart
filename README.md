@@ -2,7 +2,7 @@
 
 A **responsive and modern website** built using **HTML + CSS**, showcasing a laundry service brand with a clean design, color contrast optimization, and mobile-friendly layout.  
 
-🔗 **Live Demo:** [https://taupe-hummingbird-c6b123.netlify.app](https://taupe-hummingbird-c61b23.netlify.app)  
+🔗 **Live Demo:** [https://taupe-hummingbird-c61b23.netlify.app](https://taupe-hummingbird-c61b23.netlify.app)  
 💻 **GitHub Repository:** [https://github.com/Sharmavicky/Laundary-Mart](https://github.com/Sharmavicky/Laundary-Mart)  
 
 ---
@@ -81,4 +81,4 @@ If you want to deploy your own version:
 Frontend Developer | Learning DSA & Web Dev 🚀  
 
 🐦 **Twitter:** [https://x.com/Sharmavicky_93](https://x.com/Sharmavicky_93)  
-🌐 **Live Site:** [https://taupe-hummingbird-c6b123.netlify.app](https://taupe-hummingbird-c61b23.netlify.app)  
+🌐 **Live Site:** [https://taupe-hummingbird-c61b23.netlify.app](https://taupe-hummingbird-c61b23.netlify.app)  
